@@ -1,6 +1,6 @@
 #!/bin/bash
 
-provider="Football"
+provider=" Football "
 
-echo "I like to play $provider"
+echo "I like to play$provider"
 
